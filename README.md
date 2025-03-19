@@ -21,14 +21,14 @@
 # ➜ git push --set-upstream origin 'nomeBranchLocal'.
     -  Primeiro push da branch local
 # ➜ git pull origin master,prod ou dev
-    -  recupera a ultima versão commitada em na branch apontada
+    -  Recupera a ultima versão commitada em na branch apontada
 # ➜ git stash save 'Nome do stash'.
     -  Joga para a memoria as alteraçoes e remove do arquivo voltando para a versão original. e salva com o nome escolhido
 # ➜ git stash list.
     -  Lista todos os stash em memoria.
 # ➜ git stash pop stash@{0}.
-    -  recupera o stash desejado informando o index do stash
+    - Recupera o stash desejado informando o index do stash
 # ➜ git stash show -p stash@{0}.
-    -   exibie as alteraçoes no stash escolhido index.
+    - Exibie as alteraçoes no stash escolhido index.
 # ➜ git stash list.
    <br>
