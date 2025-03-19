@@ -16,7 +16,14 @@ Os principais comando do dia a dia.
    <br>
  - *git pull origin master,prod ou dev
    <br>
- - *git stash.
+ - *git stash save 'Nome do stash'.
    <br>  
+ - *git stash list.
+   <br>
+ - *git stash pop  - *git stash list.
+   <br>.
+   <br>
+ - *git stash list.
+   <br>
  - *git stash list.
    <br>
