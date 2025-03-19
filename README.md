@@ -7,7 +7,7 @@
 
 ## Os principais comando do dia a dia.
 
- - git checkout -b 'nomeBranch'.
+ -  # ➜git checkout -b 'nomeBranch'.
     - ### Cria uma nova branch local
  - git status.
     - ### Verifique se há alterações no codigo
