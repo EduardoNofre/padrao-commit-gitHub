@@ -35,9 +35,9 @@
 # ➜ git stash show -p stash@{0}.
     - Exibie as alteraçoes no stash escolhido index.
     
- <p align="center">
+ <h1 align="center">
         Boas praticas na utlização do git commit -M''.
- </p>
+ </h1>
    
 - No mundo do desenvolvimento de software, manter um padrão de commits claro e consistente é fundamental para a organização e rastreabilidade do código.
 
@@ -45,9 +45,9 @@
     O commit possui os elementos estruturais abaixo (tipos), que informam a intenção do seu commit ao utilizador(a) de seu código.
   </h1>
   
-  <p align="center">
+  <h1 align="center">
     Os tipos. <br>
-  </p>
+  </h1>
   
  - ## fix
      - Commits do tipo fix indicam que seu trecho de código commitado está solucionando um problema (bug fix), (se relaciona com o PATCH do versionamento semântico).<br>
