@@ -34,8 +34,11 @@
     - Recupera o stash desejado informando o index do stash
 # ➜ git stash show -p stash@{0}.
     - Exibie as alteraçoes no stash escolhido index.
-
-- # Boas praticas na utlização do git commit -M''.
+    
+ <p align="center">
+  Boas praticas na utlização do git commit -M''.
+ </h1>
+   
 - No mundo do desenvolvimento de software, manter um padrão de commits claro e consistente é fundamental para a organização e rastreabilidade do código.
 
  <h1 align="center">
