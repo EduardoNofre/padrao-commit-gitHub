@@ -33,10 +33,10 @@
 - No mundo do desenvolvimento de software, manter um padrão de commits claro e consistente é fundamental para a organização e rastreabilidade do código.
 
  <h1 align="center">
-     Tipos de Commits
+    O commit possui os elementos estruturais abaixo (tipos), que informam a intenção do seu commit ao utilizador(a) de seu código.
   </h1>
   
-O commit possui os elementos estruturais abaixo (tipos), que informam a intenção do seu commit ao utilizador(a) de seu código.<br>
+# Os tipos. <br>
  - ## fix
      - Commits do tipo fix indicam que seu trecho de código commitado está solucionando um problema (bug fix), (se relaciona com o PATCH do versionamento semântico).<br>
  - ## feat
@@ -53,3 +53,15 @@ O commit possui os elementos estruturais abaixo (tipos), que informam a intenç�
     - Commits do tipo test são utilizados quando são realizadas alterações em testes, seja criando, alterando ou excluindo testes unitários. (Não inclui alterações em código)<br>
 - ## chore
     - Commits do tipo chore indicam atualizações de tarefas de build, configurações de administrador, pacotes... como por exemplo adicionar um pacote no gitignore. (Não inclui alterações em código)<br>
+
+- # Exemplos de utilização
+    - Escopo:
+       git commit -m'<tipo>(escopo): <descrição>'
+    - Utlizando:
+        git commit -m'improvement:(serviço java): descrição ou numero  ou numero do Jira' ➜ Manutenção dia a dia.
+        git commit -m'feat:(serviço java): descrição ou numero  ou numero do Jira' ➜ Novo recurso.
+        git commit -m'fix:(serviço java): descrição ou numero  ou numero do Jira'  ➜ Bug.
+        git commit -m'test:(serviço java): descrição ou numero  ou numero do Jira' ➜ Test unitario.
+        git commit -m'docs:(serviço java): descrição ou numero  ou numero do Jira' ➜ Melhoria na documentação readme ou swagger.
+
+      
