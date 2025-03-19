@@ -1,5 +1,5 @@
  <h1 align="center">
- Boas praticas na utilização gitHub  <br>  <br>
+ Boas práticas na utilização do GitHub
    </h1>
  No mundo do desenvolvimento de software, manter um padrão de commits claro e consistente é fundamental para a organização e rastreabilidade do código.
 
