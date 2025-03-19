@@ -9,7 +9,7 @@
 # ➜ git checkout -b 'nomeBranch'.
     -  Cria uma nova branch local
 # ➜ git status.
-    -  Verifique se há alterações no codigo
+    -  Verifica se há alterações no codigo
 # ➜ git add .
     -  Adiciona o arquivo  
 # ➜ git add path file.
