@@ -4,15 +4,15 @@
 
 Os principais comando do dia a dia.
 
- - *git status.
+ - *git status. Verifica se ha alterações
    <br>
- - *git add .
+ - *git add . Adiciona o arquivo
    <br>     
- - *git add path file.
+ - *git add path file. Adiciona o arquivo somente o arquivo mencioando no path caminho 
    <br>
- - *git commit -m" descrição".
+ - *git commit -m" descrição". Descrição das alterações
    <br>
- - *git push.
+ - *git push. Envia alterações confirmadas
    <br>
  - *git pull origin master,prod ou dev
    <br>
@@ -20,10 +20,9 @@ Os principais comando do dia a dia.
    <br>  
  - *git stash list.
    <br>
- - *git stash pop  - *git stash list.
+ - *git stash pop stash@{0}.
    <br>.
-   <br>
- - *git stash list.
+ - *git stash show -p stash@{0}.
    <br>
  - *git stash list.
    <br>
