@@ -2,6 +2,10 @@
   <img src="https://github.com/EduardoNofre/padrao-commit-gitHub/blob/main/1820-gitlab_github-936x527.jpg.webp?raw=true" alt="Sublime's custom image"/>  
 </p>
 
+- ## O que git-school
+   https://git-school.github.io/visualizing-git/
+   ➜ Otimo para estudar e entender os comandos.
+
  - ## O que git? <br>
     ➜ Git é uma ferramenta de código aberto que permite gerenciar projetos e versões de código. É um dos sistemas de controle de versão distribuído (DVCS) mais populares do mundo
 
