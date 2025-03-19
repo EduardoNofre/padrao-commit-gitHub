@@ -2,8 +2,7 @@
  Boas práticas na utilização do GitHub. <br>
  </h1>
 
- - ## No mundo do desenvolvimento de software, manter um padrão de commits claro e consistente é fundamental para a organização e rastreabilidade do código.
-
+ - ## Os principais comando do dia a dia.
 
 ## Os principais comando do dia a dia.
 # ➜ git checkout -b 'nomeBranch'.
@@ -30,5 +29,5 @@
     - Recupera o stash desejado informando o index do stash
 # ➜ git stash show -p stash@{0}.
     - Exibie as alteraçoes no stash escolhido index.
-# ➜ git stash list.
-   <br>
+
+- # No mundo do desenvolvimento de software, manter um padrão de commits claro e consistente é fundamental para a organização e rastreabilidade do código.
