@@ -29,5 +29,5 @@
 # ➜ git stash show -p stash@{0}.
     - Exibie as alteraçoes no stash escolhido index.
 
-- # Os principais comando do dia a dia.
+- # Boas praticas na utlização do git commit -M''.
 - No mundo do desenvolvimento de software, manter um padrão de commits claro e consistente é fundamental para a organização e rastreabilidade do código.
