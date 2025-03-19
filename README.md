@@ -25,9 +25,9 @@
     -  Adiciona o arquivo  
 # ➜ git add path file.
     -  Adiciona o arquivo somente o arquivo mencioando no path caminho 
-# ➜ git commit -m"
+# ➜ git commit -m' mensagem '
     -  Descrição". Descrição das alterações
-# ➜ git commit --amend -m "Nova mensagem"
+# ➜ git commit --amend -m "Reescrever a mensagem"
     -  Reescrever a mensgaem do git. Observação tem que ser feito antes do push.
 # ➜ git push.
     -  Envia alterações confirmadas Observção para branch ja commitada
