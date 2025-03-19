@@ -3,8 +3,8 @@
  </h1>
 
  - ## Os principais comando do dia a dia.
+ - No mundo do desenvolvimento de software, manter um padrão de commits claro e consistente é fundamental para a organização e rastreabilidade do código.
 
-## Os principais comando do dia a dia.
 # ➜ git checkout -b 'nomeBranch'.
     -  Cria uma nova branch local
 # ➜ git status.
@@ -30,4 +30,4 @@
 # ➜ git stash show -p stash@{0}.
     - Exibie as alteraçoes no stash escolhido index.
 
-- # No mundo do desenvolvimento de software, manter um padrão de commits claro e consistente é fundamental para a organização e rastreabilidade do código.
+- # Os principais comando do dia a dia.
