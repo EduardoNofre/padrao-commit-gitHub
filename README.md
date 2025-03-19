@@ -12,6 +12,8 @@
     -  Cria uma nova branch local
 # ➜ git status.
     -  Verifica se há alterações no codigo
+# ➜ git diff.
+    -  exibe as alteraçoes feita no arquivo informado pelo path
 # ➜ git add .
     -  Adiciona o arquivo  
 # ➜ git add path file.
