@@ -8,7 +8,7 @@
 ## Os principais comando do dia a dia.
 
  - git status.
-    - ### Verifica se ha alterações
+    - ### Verifique se há alterações no codigo
  - git add .
     - ### Adiciona o arquivo  
  - git add path file.
