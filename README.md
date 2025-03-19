@@ -1,6 +1,11 @@
  <p align="center">
   <img src="https://github.com/EduardoNofre/padrao-commit-gitHub/blob/main/1820-gitlab_github-936x527.jpg.webp?raw=true" alt="Sublime's custom image"/>  
 </p>
+
+ O que git?
+
+ O que gitHub?
+
  
  <h1 align="center">
  Boas práticas na utilização do Git. <br>
@@ -8,6 +13,8 @@
 
  - ## Os principais comando do dia a dia.
 
+# ➜ git --version
+    -  Exibe a versão do git instalada na maquina.
 # ➜ git checkout -b 'nomeBranch'.
     -  Cria uma nova branch local
 # ➜ git status.
@@ -20,6 +27,8 @@
     -  Adiciona o arquivo somente o arquivo mencioando no path caminho 
 # ➜ git commit -m"
     -  Descrição". Descrição das alterações
+# ➜ git commit --amend -m "Nova mensagem"
+    -  Reescrever a mensgaem do git. Observação tem que ser feito antes do push.
 # ➜ git push.
     -  Envia alterações confirmadas Observção para branch ja commitada
 # ➜ git push --set-upstream origin 'nomeBranchLocal'.
@@ -34,6 +43,12 @@
     - Recupera o stash desejado informando o index do stash
 # ➜ git stash show -p stash@{0}.
     - Exibie as alteraçoes no stash escolhido index.
+# ➜ git log
+    - Lista todos os commits log do ultimo para o mais antigo 'commits, arquivos'.
+# ➜ git log -10
+    - Lista os 10 utimos commits log do ultimo para o mais antigo 'commits, arquivos'.
+# ➜ git reflog
+    - Ideal para resturar uma versão anterior caso tenha algum erro. basta escolhe o indice dc8e5ea HEAD@{2}
     
  <h1 align="center">
         Boas praticas na utlização do git commit -M''.
