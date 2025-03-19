@@ -58,10 +58,10 @@
     - Escopo:<br>
        git commit -m'<tipo>(escopo): <descrição>'<br>
     - Utlizando:<br>
-        - git commit -m'improvement:(serviço java): descrição ou numero  ou numero do Jira' ➜ Manutenção dia a dia.<br>
-        - git commit -m'feat:(serviço java): descrição ou numero  ou numero do Jira' ➜ Novo recurso.<br>
-        - git commit -m'fix:(serviço java): descrição ou numero  ou numero do Jira'  ➜ Bug.<br>
-        - git commit -m'test:(serviço java): descrição ou numero  ou numero do Jira' ➜ Test unitario.<br>
-        - git commit -m'docs:(serviço java): descrição ou numero  ou numero do Jira' ➜ Melhoria na documentação readme ou swagger.<br>
+        - git commit -m'improvement:(serviço java): descrição ou numero  ou numero do Jira' <br> ➜ Manutenção dia a dia.<br>
+        - git commit -m'feat:(serviço java): descrição ou numero  ou numero do Jira' <br> ➜ Novo recurso.<br>
+        - git commit -m'fix:(serviço java): descrição ou numero  ou numero do Jira'  <br> ➜ Bug.<br>
+        - git commit -m'test:(serviço java): descrição ou numero  ou numero do Jira' <br> ➜ Test unitario.<br>
+        - git commit -m'docs:(serviço java): descrição ou numero  ou numero do Jira' <br> ➜ Melhoria na documentação readme ou swagger.<br>
 
       
