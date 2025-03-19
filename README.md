@@ -83,7 +83,7 @@
 
 - # Exemplos de utilização<br>
     - Escopo:<br>
-       git commit -m'<tipo>(escopo): <descrição>'<br>
+       git commit -m'<tipo>(tipo): <descrição>'<br>
     - Utlizando:<br>
         - ### git commit -m'improvement:(serviço java): descrição ou numero  ou numero do Jira' <br>
           ➜ Manutenção dia a dia.<br>
