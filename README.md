@@ -1,3 +1,7 @@
+ <p align="center">
+  <img src="https://github.com/EduardoNofre/padrao-commit-gitHub/blob/main/1820-gitlab_github-936x527.jpg.webp?raw=true" alt="Sublime's custom image"/>  
+</p>
+ 
  <h1 align="center">
  Boas práticas na utilização do GitHub. <br>
  </h1>
