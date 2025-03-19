@@ -3,7 +3,7 @@
 </p>
  
  <h1 align="center">
- Boas práticas na utilização do GitHub. <br>
+ Boas práticas na utilização do Git. <br>
  </h1>
 
  - ## Os principais comando do dia a dia.
