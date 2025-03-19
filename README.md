@@ -2,7 +2,7 @@
  Boas práticas na utilização do GitHub. <br>
  </h1>
 
- - *No mundo do desenvolvimento de software, manter um padrão de commits claro e consistente é fundamental para a organização e rastreabilidade do código.
+ - ## *No mundo do desenvolvimento de software, manter um padrão de commits claro e consistente é fundamental para a organização e rastreabilidade do código.
 
 
 ## Os principais comando do dia a dia.
