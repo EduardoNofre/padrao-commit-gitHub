@@ -49,12 +49,6 @@
     - Lista os 10 utimos commits log do ultimo para o mais antigo 'commits, arquivos'.
 # ➜ git reflog
     - Ideal para resturar uma versão anterior caso tenha algum erro. basta escolhe o indice dc8e5ea HEAD@{2}
-    
- <h1 align="center">
-        Boas praticas na utlização do git commit -M''.
- </h1>
-   
-- ### No mundo do desenvolvimento de software, manter um padrão de commits claro e consistente é fundamental para a organização e rastreabilidade do código.
   
   <h1 align="center">
     Os tipos. <br>
@@ -78,10 +72,15 @@
 - ## chore
     - Commits do tipo chore indicam atualizações de tarefas de build, configurações de administrador, pacotes... como por exemplo adicionar um pacote no gitignore. (Não inclui alterações em código)<br>
 
-- # Exemplos de utilização<br>
-    - Escopo:<br>
+ <h1 align="center">
+        Boas praticas na utlização do git commit -M''.
+ </h1>   
+ 
+- ### No mundo do desenvolvimento de software, manter um padrão de commits claro e consistente é fundamental para a organização e rastreabilidade do código.
+
+    - ### Escopo:<br>
        git commit -m'<tipo>(tipo): <descrição>'<br>
-    - Utlizando:<br>
+    - ### Utlizando:<br>
         - ### git commit -m'improvement:(serviço java): descrição ou numero  ou numero do Jira' <br>
           ➜ Manutenção dia a dia.<br>
         - ### git commit -m'feat:(serviço java): descrição ou numero  ou numero do Jira' <br>
