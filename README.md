@@ -30,4 +30,4 @@
     - Exibie as alteraçoes no stash escolhido index.
 
 - # Os principais comando do dia a dia.
-  - No mundo do desenvolvimento de software, manter um padrão de commits claro e consistente é fundamental para a organização e rastreabilidade do código.
+- No mundo do desenvolvimento de software, manter um padrão de commits claro e consistente é fundamental para a organização e rastreabilidade do código.
