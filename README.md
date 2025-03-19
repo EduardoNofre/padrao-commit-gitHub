@@ -2,10 +2,11 @@
   <img src="https://github.com/EduardoNofre/padrao-commit-gitHub/blob/main/1820-gitlab_github-936x527.jpg.webp?raw=true" alt="Sublime's custom image"/>  
 </p>
 
- O que git?
+ - ## O que git?
+    ### ➜ Git é uma ferramenta de código aberto que permite gerenciar projetos e versões de código. É um dos sistemas de controle de versão distribuído (DVCS) mais populares do mundo
 
- O que gitHub?
-
+ - ## O que gitHub?
+    ### ➜ O GitHub é uma plataforma online que permite armazenar, compartilhar e colaborar em projetos de desenvolvimento de software.
  
  <h1 align="center">
  Boas práticas na utilização do Git. <br>
