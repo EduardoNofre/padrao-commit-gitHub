@@ -18,7 +18,6 @@
    <br>
  - git commit -m"
    - ### Descrição". Descrição das alterações
-   <br>
  - git push.
    - ### Envia alterações confirmadas
    <br>
