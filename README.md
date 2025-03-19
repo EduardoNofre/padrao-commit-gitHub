@@ -3,10 +3,10 @@
 </p>
 
  - ## O que git? <br>
-    ### ➜ Git é uma ferramenta de código aberto que permite gerenciar projetos e versões de código. É um dos sistemas de controle de versão distribuído (DVCS) mais populares do mundo
+    ➜ Git é uma ferramenta de código aberto que permite gerenciar projetos e versões de código. É um dos sistemas de controle de versão distribuído (DVCS) mais populares do mundo
 
  - ## O que gitHub? <br>
-    ### ➜ O GitHub é uma plataforma online que permite armazenar, compartilhar e colaborar em projetos de desenvolvimento de software.
+    ➜ O GitHub é uma plataforma online que permite armazenar, compartilhar e colaborar em projetos de desenvolvimento de software.
  
  <h1 align="center">
  Boas práticas na utilização do Git. <br>
