@@ -7,6 +7,8 @@
 
 ## Os principais comando do dia a dia.
 
+ - git checkout -b 'nomeBranch'.
+    - ### Cria uma nova branch local
  - git status.
     - ### Verifique se há alterações no codigo
  - git add .
@@ -16,7 +18,9 @@
  - git commit -m"
    - ### Descrição". Descrição das alterações
  - git push.
-   - ### Envia alterações confirmadas
+   - ### Envia alterações confirmadas Observção para branch ja commitada
+ - git push --set-upstream origin 'nomeBranchLocal'.
+   - ### Primeiro push da branch local
  - git pull origin master,prod ou dev
    - ### recupera a ultima versão commitada em na branch apontada
  - git stash save 'Nome do stash'.
