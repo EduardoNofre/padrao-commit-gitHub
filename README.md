@@ -54,14 +54,14 @@
 - ## chore
     - Commits do tipo chore indicam atualizações de tarefas de build, configurações de administrador, pacotes... como por exemplo adicionar um pacote no gitignore. (Não inclui alterações em código)<br>
 
-- # Exemplos de utilização
-    - Escopo:
-       git commit -m'<tipo>(escopo): <descrição>'
-    - Utlizando:
-        git commit -m'improvement:(serviço java): descrição ou numero  ou numero do Jira' ➜ Manutenção dia a dia.
-        git commit -m'feat:(serviço java): descrição ou numero  ou numero do Jira' ➜ Novo recurso.
-        git commit -m'fix:(serviço java): descrição ou numero  ou numero do Jira'  ➜ Bug.
-        git commit -m'test:(serviço java): descrição ou numero  ou numero do Jira' ➜ Test unitario.
-        git commit -m'docs:(serviço java): descrição ou numero  ou numero do Jira' ➜ Melhoria na documentação readme ou swagger.
+- # Exemplos de utilização<br>
+    - Escopo:<br>
+       git commit -m'<tipo>(escopo): <descrição>'<br>
+    - Utlizando:<br>
+        git commit -m'improvement:(serviço java): descrição ou numero  ou numero do Jira' ➜ Manutenção dia a dia.<br>
+        git commit -m'feat:(serviço java): descrição ou numero  ou numero do Jira' ➜ Novo recurso.<br>
+        git commit -m'fix:(serviço java): descrição ou numero  ou numero do Jira'  ➜ Bug.<br>
+        git commit -m'test:(serviço java): descrição ou numero  ou numero do Jira' ➜ Test unitario.<br>
+        git commit -m'docs:(serviço java): descrição ou numero  ou numero do Jira' ➜ Melhoria na documentação readme ou swagger.<br>
 
       
