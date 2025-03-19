@@ -3,8 +3,9 @@
 </p>
 
 - ## O que git-school
+  ➜ Otimo para estudar,praticar e entender os comandos git.
    https://git-school.github.io/visualizing-git/
-   ➜ Otimo para estudar e entender os comandos.
+  
 
  - ## O que git? <br>
     ➜ Git é uma ferramenta de código aberto que permite gerenciar projetos e versões de código. É um dos sistemas de controle de versão distribuído (DVCS) mais populares do mundo
