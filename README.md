@@ -97,5 +97,7 @@
           ➜ Test unitario.<br>
         - ### git commit -m'docs:(serviço java): descrição ou numero  ou numero do Jira' <br>
           ➜ Melhoria na documentação readme ou swagger.<br>
+        - ### git commit -m'patch:(serviço java): descrição ou numero  ou numero do Jira' <br>
+          ➜ versionamento para gerar pacote.<br>
 
       
