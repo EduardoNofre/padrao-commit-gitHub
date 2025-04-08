@@ -55,7 +55,7 @@
     - Lista os 10 utimos commits log do ultimo para o mais antigo 'commits, arquivos'.
 # ➜ git reflog
     - Ideal para resturar uma versão anterior caso tenha algum erro. basta escolhe o indice dc8e5ea HEAD@{2}
-# ➜ git exporta o log para um arquivo testo apartir de um periodo.
+# ➜ Exporta o log para um arquivo texto a partir de um periodo.
     - git log --since=2024-07-01 --until=2024-12-05 > C:/pasta/nomeArquivo.txt
   
   <h1 align="center">
